@@ -4,8 +4,10 @@ This project aims to evaluate an article by passing it through an NLP API powere
 
 ### Installing
 
+First of all, you should get an API key from MeaningCloud.
+
 The project consists of a server, client, and tests.
-First you should run `npm install`.
+Y should run `npm install`.
 
 Mainly you would run server and client by using the following commands:
 
